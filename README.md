@@ -1,4 +1,4 @@
-# MERN Stack - Ecommerce
+# MERN Stack - Login and Registration
 > Finally, I have perfected the user authentication page using the MERN Stack + Redux.
 > Include:
 > + Register, login with validation form.
